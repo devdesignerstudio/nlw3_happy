@@ -36,7 +36,7 @@ Projeto da [Next Level Week 3.0](https://nextlevelweek.com/).
 
 Você pode visualizar o layout do projeto através dos links abaixo:
 
-- [Layout Web] (https://www.figma.com/file/5Y9ZDYczKaB8rR2Sgs2L9R/Happy-Web-Copy)
+- [Layout Web](https://www.figma.com/file/5Y9ZDYczKaB8rR2Sgs2L9R/Happy-Web-Copy)
 - [Layout Mobile](https://www.figma.com/file/t1xH6Bnw9YjLIBi8NHfHd4/Happy-Mobile-Copy) 
 
 Lembrando que você precisa ter uma conta no [Figma](http://figma.com/) para acessá-lo.
