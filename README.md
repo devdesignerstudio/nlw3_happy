@@ -19,10 +19,10 @@
 
 Esse projeto foi desenvolvido utilizando as seguintes tecnologias:
 
-- [Node.js](https://nodejs.org/en/)
-- [Express](https://expressjs.com/pt-br/)
-- [SQLite](https://www.sqlite.org/index.html)
-- [Nunjucks](https://mozilla.github.io/nunjucks/)
+- [Node.js](https://nodejs.org/en/) - Servidor de aplicação Backend
+- [Express](https://expressjs.com/pt-br/) - Servidor de aplicação Frontend
+- [SQLite](https://www.sqlite.org/index.html) - Banco de dados
+- [Handlebars](https://handlebarsjs.com/) - Template Engine
 
 ## 💻 Projeto
 
