@@ -11,10 +11,6 @@
 
 <br>
 
-<p align="center">
-  <img alt="LogoHappy" src=".github/logo-icon.png" width="100%">
-</p>
-
 ## 🚀 Tecnologias
 
 Esse projeto foi desenvolvido utilizando as seguintes tecnologias:
