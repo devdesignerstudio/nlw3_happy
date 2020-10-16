@@ -45,7 +45,7 @@ Lembrando que você precisa ter uma conta no [Figma](http://figma.com/) para ace
 
 ## 🔖 Roadmap
 
-Você pode verificar o roadmap do curso na ordem do Frontend para Backend abaixo:
+Você pode verificar o roteiro do curso na ordem do Frontend para Backend abaixo:
 - [Notion](https://www.notion.so/NLW-Discovery-03-b325f596b16843f2b64dbeb15390d8d9)
 
 ## 📝 Licença
