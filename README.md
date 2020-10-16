@@ -19,11 +19,11 @@
 
 Esse projeto foi desenvolvido utilizando as seguintes tecnologias:
 
-- [Express](https://expressjs.com/pt-br/) - Servidor de aplicação Frontend
+- [Express](https://expressjs.com/pt-br/) - Framework para NodeJS
 - [Handlebars](https://handlebarsjs.com/) - Template Engine
 - [LeafletJS](https://leafletjs.com/) - Mapas interativos amigáveis para Mobile
-- [Node.js](https://nodejs.org/en/) - Servidor de aplicação Backend
-- [SQLite](https://www.sqlite.org/index.html) - Banco de dados
+- [Node.js](https://nodejs.org/en/) -  Chrome's V8 JavaScript engine
+- [SQLite](https://www.sqlite.org/index.html) - Database
 
 
 ## 💻 Projeto
