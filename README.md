@@ -39,7 +39,7 @@ Você pode visualizar o layout do projeto através dos links abaixo:
 
 Lembrando que você precisa ter uma conta no [Figma](http://figma.com/) para acessá-lo.
 
-##  Roadmap
+## 🔖 Roadmap
 
 Você pode verificar o roadmap do curso na ordem do Frontend para Backend abaixo:
 - [Notion](https://www.notion.so/NLW-Discovery-03-b325f596b16843f2b64dbeb15390d8d9)
