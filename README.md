@@ -3,10 +3,10 @@
 </h1>
 
 <p align="center">
-  <a href="#rocket-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#memo-licença">Licença</a>
+  <a href="#-licença">Licença</a>
 </p>
 
 <br>
@@ -19,10 +19,12 @@
 
 Esse projeto foi desenvolvido utilizando as seguintes tecnologias:
 
-- [Node.js](https://nodejs.org/en/)
-- [Express](https://expressjs.com/pt-br/)
-- [SQLite](https://www.sqlite.org/index.html)
-- [Nunjucks](https://mozilla.github.io/nunjucks/)
+- [Express](https://expressjs.com/pt-br/) - Framework para NodeJS
+- [Handlebars](https://handlebarsjs.com/) - Template Engine
+- [LeafletJS](https://leafletjs.com/) - Mapas interativos amigáveis para Mobile
+- [Node.js](https://nodejs.org/en/) -  Chrome's V8 JavaScript engine
+- [SQLite](https://www.sqlite.org/index.html) - Database
+
 
 ## 💻 Projeto
 
@@ -43,7 +45,7 @@ Lembrando que você precisa ter uma conta no [Figma](http://figma.com/) para ace
 
 ## 📝 Licença
 
-Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
+Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
 
 ---
 
