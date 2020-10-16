@@ -1,19 +1,16 @@
 <h1 align="center">
-    <img alt="Logo" title="Logo" src=".github/logo.svg" />
+    <img alt="Logo" title="Logo" src=".github/logo-icon.png" />
 </h1>
 
 <p align="center">
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-roadmap">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-licença">Licença</a>
 </p>
 
 <br>
-
-<p align="center">
-  <img alt="LogoHappy" src=".github/happy.png" width="100%">
-</p>
 
 ## 🚀 Tecnologias
 
@@ -24,7 +21,6 @@ Esse projeto foi desenvolvido utilizando as seguintes tecnologias:
 - [LeafletJS](https://leafletjs.com/) - Mapas interativos amigáveis para Mobile
 - [Node.js](https://nodejs.org/en/) -  Chrome's V8 JavaScript engine
 - [SQLite](https://www.sqlite.org/index.html) - Database
-
 
 ## 💻 Projeto
 
@@ -43,10 +39,15 @@ Você pode visualizar o layout do projeto através dos links abaixo:
 
 Lembrando que você precisa ter uma conta no [Figma](http://figma.com/) para acessá-lo.
 
+##  Roadmap
+
+Você pode verificar o roadmap do curso na ordem do Frontend para Backend abaixo:
+- [Notion](https://www.notion.so/NLW-Discovery-03-b325f596b16843f2b64dbeb15390d8d9)
+
 ## 📝 Licença
 
 Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
 
 ---
 
-<p align="center">Desenvolvido com tesão por Célio Pontes</p>
+<p align="center">Desenvolvido com paixão por Célio Pontes</p>
