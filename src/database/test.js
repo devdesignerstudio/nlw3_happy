@@ -24,5 +24,5 @@ db.then(async database => {
     // console.log (orphanage);
 
     //remove from table
-    await database.run("DELETE FROM orphanages")
+    // await database.run("DELETE FROM orphanages")
 })
