@@ -16,6 +16,8 @@
     align-items: center;
     justify-content: center;
 
+    text-decoration: none;
+
     transition: background-color .2s;
 }
 
@@ -53,4 +55,3 @@
 .button-select button:last-child {
     border-radius: 0 2rem 2rem 0;
 }
-

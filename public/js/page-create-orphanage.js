@@ -100,7 +100,20 @@ function toggleSelect(event){
 
     //atualizar o meu input hidden com o valor selecionado
 
-    const input = document.querySelector('[name="open-on-weekends"]');
+    const input = document.querySelector('[name="open_on_weekends"]');
     
     input.value = btnConfirmacao.dataset.value;
+}
+
+function validate(event) {
+    //validate case lat and lng are filled
+    const latField = document.querySelector('[name=lat]').value;
+   
+    const needsLatAndLng = latField == "";
+  
+    if (needsLatAndLng) {
+        event.preventDefault();
+        alert('Selecione um ponto no mapa');
+    }
+    
 }

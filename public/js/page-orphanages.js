@@ -48,7 +48,7 @@ orphanagesSpan.forEach( span => {
         lng:span.dataset.lng
     }
 
-    console.log(orphanage);
+    // console.log(orphanage);
 
     addMarker(orphanage);
 })

@@ -21,8 +21,8 @@ module.exports = [
 
         images: ["https://images.unsplash.com/photo-1600420592434-0ce54ed4b0f5?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max",
         "https://images.unsplash.com/photo-1600409864933-921066854c78?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max"],
-        instructions: "Veja como se sentir a vontade e traga muito amor e paciência para dar",
-        opening_hours: "Horários de visitas das 08h até 18h",
+        instructions: "Traga muitos sorrisos, beijos, abraços e atenção para dar",
+        opening_hours: "Horários de visitas das 10h até 17h",
         opening_on_weekends: "0"
     },
 ]

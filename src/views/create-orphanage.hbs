@@ -47,7 +47,7 @@
       </aside>
 
       <main class="animate-appear with-sidebar">
-        <form action="">
+        <form action="save-orphanage" method="post" onsubmit="validate(event)">
           <fieldset>
             <legend>Dados</legend>
 
@@ -75,7 +75,7 @@
             </div>
 
             <div class="input-block">
-              <label for="whatsapp">WhatsApp</label>
+              <label for="whatsapp">Contato</label>
               <input id="whatsapp" name="whatsapp" required />
             </div>
 
@@ -84,7 +84,7 @@
 
               <div class="images-upload" id="images">
                 <div class="new-upload">
-                  <input
+                  <input type="url"
                     name="images"
                     placeholder="Cole o link da foto aqui"
                     required
@@ -117,16 +117,16 @@
             </div>
 
             <div class="input-block">
-              <label for="opening-hours">Horário de visitação</label>
-              <input id="opening-hours" name="opening-hours" required />
+              <label for="opening_hours">Horário de visitação</label>
+              <input id="opening_hours" name="opening_hours" required />
             </div>
 
             <div class="input-block">
-              <label for="open-on-weekends">Atende finais de semana?</label>
+              <label for="open_on_weekends">Atende finais de semana?</label>
               <input
                 type="hidden"
-                id="open-on-weekends"
-                name="open-on-weekends"
+                id="open_on_weekends"
+                name="open_on_weekends"
                 value="1"
                 required
               />
