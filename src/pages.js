@@ -17,7 +17,7 @@ module.exports = {
 
       orphanage.images = orphanage.images.split(",");
       orphanage.firstImg = orphanage.images[0];
-      console.log(orphanage);
+      //console.log(orphanage);
       //if question
       orphanage.open_on_weekends == "0"
         ? (orphanage.open_on_weekends = false)
