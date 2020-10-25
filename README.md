@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img href="http://31.220.49.147:5500/orphanages" alt="Logo" title="Logo" src=".github/logo_happy.svg" />
+    <a href="href="http://31.220.49.147:5500/orphanages"><img alt="Logo" title="Logo" src=".github/logo_happy.svg" /></a>
 </h1>
 
 <p align="center">
