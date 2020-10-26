@@ -54,4 +54,4 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 
 ---
 
-<p align="center">Desenvolvido com paixão por Célio Pontes</p>
+<p align="center">Desenvolvido com paixão por Célio Pontes seguindo as aulas do Mayk Brito</p>
